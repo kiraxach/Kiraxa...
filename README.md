@@ -28,8 +28,7 @@
 - 🌟 Dreaming big, coding hard!  
 - 🎧 Music and coding = best combo!
 
-[![Kiraxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraxach)](https://github.com/kiraxach/github-readme-stats)
-![kiraxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraxach&show_icons=true)
+
 ![kiraxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraxach&show_icons=true&theme=radical)
 
 ---
